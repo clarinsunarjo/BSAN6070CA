@@ -8,3 +8,4 @@ There are three parts:
 
 Computer Assignment 02 : Naive Bayes Algorithm
 Code by: Team 07 (Clarin)
+Objective: Creating Spam Email Classifier
